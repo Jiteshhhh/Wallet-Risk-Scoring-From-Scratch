@@ -1,0 +1,3889 @@
+{
+  "0x0039f22efb07a647557c7c5d17854cfd6d489ef3": {
+    "compound_v2": {
+      "borrowCount": 1,
+      "borrows": [
+        {
+          "amount": "6000000000",
+          "amountUSD": "6000",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1567452595"
+        }
+      ],
+      "id": "0x0039f22efb07a647557c7c5d17854cfd6d489ef3",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 1,
+      "repays": [
+        {
+          "amount": "6022231793",
+          "amountUSD": "6022.231793",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1568440161"
+        }
+      ],
+      "withdrawCount": 8,
+      "withdraws": [
+        {
+          "amount": "10000000000",
+          "amountUSD": "10000",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1638889167"
+        },
+        {
+          "amount": "58449551636",
+          "amountUSD": "58449.551636",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1612506281"
+        },
+        {
+          "amount": "100000576541068752179",
+          "amountUSD": "18129.60452401306218220769389531374",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1568440263"
+        },
+        {
+          "amount": "9980000000",
+          "amountUSD": "9980",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1616099263"
+        },
+        {
+          "amount": "16000000000",
+          "amountUSD": "16000",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1615696754"
+        },
+        {
+          "amount": "100010789471400383451",
+          "amountUSD": "23675.79272127077619019627218802231",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1594846450"
+        },
+        {
+          "amount": "28779450143",
+          "amountUSD": "28779.450143",
+          "asset": {
+            "lastPriceUSD": "1.000344",
+            "symbol": "USDT"
+          },
+          "timestamp": "1594846570"
+        },
+        {
+          "amount": "161333838573376768168983",
+          "amountUSD": "163496.357345614310369520048132",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1601235410"
+        }
+      ]
+    },
+    "compound_v3": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x0039f22efb07a647557c7c5d17854cfd6d489ef3",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": [
+        {
+          "amount": "10000000000000000000",
+          "amountUSD": "15605.8719871",
+          "asset": {
+            "lastPriceUSD": "3838.754548",
+            "symbol": "WETH"
+          },
+          "timestamp": "1662508878"
+        }
+      ]
+    }
+  },
+  "0x06b51c6882b27cb05e712185531c1f74996dd988": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x06b51c6882b27cb05e712185531c1f74996dd988",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x0795732aacc448030ef374374eaae57d2965c16c": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x0795732aacc448030ef374374eaae57d2965c16c",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x0aaa79f1a86bc8136cd0d1ca0d51964f4e3766f9": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x0aaa79f1a86bc8136cd0d1ca0d51964f4e3766f9",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x0fe383e5abc200055a7f391f94a5f5d1f844b9ae": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x0fe383e5abc200055a7f391f94a5f5d1f844b9ae",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x104ae61d8d487ad689969a17807ddc338b445416": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x104ae61d8d487ad689969a17807ddc338b445416",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x111c7208a7e2af345d36b6d4aace8740d61a3078": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x111c7208a7e2af345d36b6d4aace8740d61a3078",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x124853fecb522c57d9bd5c21231058696ca6d596": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x124853fecb522c57d9bd5c21231058696ca6d596",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 1,
+      "withdraws": [
+        {
+          "amount": "6882000378283982",
+          "amountUSD": "3.02952538652439171622",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1604813165"
+        }
+      ]
+    },
+    "compound_v3": {}
+  },
+  "0x13b1c8b0e696aff8b4fee742119b549b605f3cbc": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x13b1c8b0e696aff8b4fee742119b549b605f3cbc",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x1656f1886c5ab634ac19568cd571bc72f385fdf7": {
+    "compound_v2": {
+      "borrowCount": 16,
+      "borrows": [
+        {
+          "amount": "4000000000",
+          "amountUSD": "4000",
+          "asset": {
+            "lastPriceUSD": "1.000344",
+            "symbol": "USDT"
+          },
+          "timestamp": "1614342524"
+        },
+        {
+          "amount": "11000000000000000000000",
+          "amountUSD": "11033.11",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1614628012"
+        },
+        {
+          "amount": "3000000000",
+          "amountUSD": "3000",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1614590577"
+        },
+        {
+          "amount": "17000000000",
+          "amountUSD": "17000",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1614382073"
+        },
+        {
+          "amount": "20000000000",
+          "amountUSD": "20000",
+          "asset": {
+            "lastPriceUSD": "1.000344",
+            "symbol": "USDT"
+          },
+          "timestamp": "1614094112"
+        },
+        {
+          "amount": "11000000000000000000",
+          "amountUSD": "22289.795",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1613812686"
+        },
+        {
+          "amount": "3000000000",
+          "amountUSD": "3000",
+          "asset": {
+            "lastPriceUSD": "1.000344",
+            "symbol": "USDT"
+          },
+          "timestamp": "1614350665"
+        },
+        {
+          "amount": "8000000000",
+          "amountUSD": "8000",
+          "asset": {
+            "lastPriceUSD": "1.000344",
+            "symbol": "USDT"
+          },
+          "timestamp": "1623239059"
+        },
+        {
+          "amount": "4000000000",
+          "amountUSD": "4000",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1614648449"
+        },
+        {
+          "amount": "12000000000",
+          "amountUSD": "12000",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1614647887"
+        },
+        {
+          "amount": "5000000000",
+          "amountUSD": "5000",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1623241335"
+        },
+        {
+          "amount": "8000000000",
+          "amountUSD": "8000",
+          "asset": {
+            "lastPriceUSD": "1.000344",
+            "symbol": "USDT"
+          },
+          "timestamp": "1618130842"
+        },
+        {
+          "amount": "8000000000",
+          "amountUSD": "8000",
+          "asset": {
+            "lastPriceUSD": "1.000344",
+            "symbol": "USDT"
+          },
+          "timestamp": "1619859165"
+        },
+        {
+          "amount": "2000000000",
+          "amountUSD": "2000",
+          "asset": {
+            "lastPriceUSD": "1.000344",
+            "symbol": "USDT"
+          },
+          "timestamp": "1619855778"
+        },
+        {
+          "amount": "2000000000000000000",
+          "amountUSD": "59.5251",
+          "asset": {
+            "lastPriceUSD": "10.66310967",
+            "symbol": "UNI"
+          },
+          "timestamp": "1618116245"
+        },
+        {
+          "amount": "2600000000000000000",
+          "amountUSD": "5101.915",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1613910997"
+        }
+      ],
+      "id": "0x1656f1886c5ab634ac19568cd571bc72f385fdf7",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 18,
+      "repays": [
+        {
+          "amount": "2917133812",
+          "amountUSD": "2917.133812",
+          "asset": {
+            "lastPriceUSD": "1.000344",
+            "symbol": "USDT"
+          },
+          "timestamp": "1614300709"
+        },
+        {
+          "amount": "5897822271",
+          "amountUSD": "5897.822271",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1614694022"
+        },
+        {
+          "amount": "108247970107558965367",
+          "amountUSD": "108.395620338785675795760588",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1614692441"
+        },
+        {
+          "amount": "13603575590430808355",
+          "amountUSD": "21043.847205983082522641925",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1614090274"
+        },
+        {
+          "amount": "5000493272",
+          "amountUSD": "5000.493272",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1623334815"
+        },
+        {
+          "amount": "18118045239",
+          "amountUSD": "18118.045239",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1614694356"
+        },
+        {
+          "amount": "2656000000",
+          "amountUSD": "2656",
+          "asset": {
+            "lastPriceUSD": "1.000344",
+            "symbol": "USDT"
+          },
+          "timestamp": "1620251263"
+        },
+        {
+          "amount": "11991840724",
+          "amountUSD": "11991.840724",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1614627534"
+        },
+        {
+          "amount": "20184861977",
+          "amountUSD": "20184.861977",
+          "asset": {
+            "lastPriceUSD": "1.000344",
+            "symbol": "USDT"
+          },
+          "timestamp": "1614380164"
+        },
+        {
+          "amount": "1756936979468073",
+          "amountUSD": "0.0713256677806735723518",
+          "asset": {
+            "lastPriceUSD": "10.66310967",
+            "symbol": "UNI"
+          },
+          "timestamp": "1619855462"
+        },
+        {
+          "amount": "2933039526",
+          "amountUSD": "2933.039526",
+          "asset": {
+            "lastPriceUSD": "1.000344",
+            "symbol": "USDT"
+          },
+          "timestamp": "1614346321"
+        },
+        {
+          "amount": "2000000000000000000",
+          "amountUSD": "72.7572",
+          "asset": {
+            "lastPriceUSD": "10.66310967",
+            "symbol": "UNI"
+          },
+          "timestamp": "1618668390"
+        },
+        {
+          "amount": "4213000000",
+          "amountUSD": "4213",
+          "asset": {
+            "lastPriceUSD": "1.000344",
+            "symbol": "USDT"
+          },
+          "timestamp": "1620251743"
+        },
+        {
+          "amount": "980647020",
+          "amountUSD": "980.64702",
+          "asset": {
+            "lastPriceUSD": "1.000344",
+            "symbol": "USDT"
+          },
+          "timestamp": "1614693324"
+        },
+        {
+          "amount": "8000922555",
+          "amountUSD": "8000.922555",
+          "asset": {
+            "lastPriceUSD": "1.000344",
+            "symbol": "USDT"
+          },
+          "timestamp": "1623334493"
+        },
+        {
+          "amount": "3140380000",
+          "amountUSD": "3140.38",
+          "asset": {
+            "lastPriceUSD": "1.000344",
+            "symbol": "USDT"
+          },
+          "timestamp": "1620252005"
+        },
+        {
+          "amount": "10892311400462948170000",
+          "amountUSD": "10907.16851321317963130388",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1614646625"
+        },
+        {
+          "amount": "8017031207",
+          "amountUSD": "8017.031207",
+          "asset": {
+            "lastPriceUSD": "1.000344",
+            "symbol": "USDT"
+          },
+          "timestamp": "1618719488"
+        }
+      ],
+      "withdrawCount": 12,
+      "withdraws": [
+        {
+          "amount": "150000000000000000000",
+          "amountUSD": "6387.23985",
+          "asset": {
+            "lastPriceUSD": "10.66310967",
+            "symbol": "UNI"
+          },
+          "timestamp": "1620251369"
+        },
+        {
+          "amount": "36028418",
+          "amountUSD": "13512.5788661003",
+          "asset": {
+            "lastPriceUSD": "118103.87917785",
+            "symbol": "WBTC"
+          },
+          "timestamp": "1623334909"
+        },
+        {
+          "amount": "25000000",
+          "amountUSD": "9376.33375",
+          "asset": {
+            "lastPriceUSD": "118103.87917785",
+            "symbol": "WBTC"
+          },
+          "timestamp": "1623334230"
+        },
+        {
+          "amount": "200011320845766163184",
+          "amountUSD": "8516.801859714755608469651216",
+          "asset": {
+            "lastPriceUSD": "10.66310967",
+            "symbol": "UNI"
+          },
+          "timestamp": "1620252185"
+        },
+        {
+          "amount": "64046986",
+          "amountUSD": "31233.825686113",
+          "asset": {
+            "lastPriceUSD": "118103.87917785",
+            "symbol": "WBTC"
+          },
+          "timestamp": "1614694457"
+        },
+        {
+          "amount": "3000000000000000000",
+          "amountUSD": "10203.645",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1620252922"
+        },
+        {
+          "amount": "37000000",
+          "amountUSD": "18043.8085",
+          "asset": {
+            "lastPriceUSD": "118103.87917785",
+            "symbol": "WBTC"
+          },
+          "timestamp": "1614694356"
+        },
+        {
+          "amount": "30000000",
+          "amountUSD": "11251.6005",
+          "asset": {
+            "lastPriceUSD": "118103.87917785",
+            "symbol": "WBTC"
+          },
+          "timestamp": "1623334613"
+        },
+        {
+          "amount": "63000000000000000000",
+          "amountUSD": "2682.640737",
+          "asset": {
+            "lastPriceUSD": "10.66310967",
+            "symbol": "UNI"
+          },
+          "timestamp": "1620251112"
+        },
+        {
+          "amount": "7000000000000000000",
+          "amountUSD": "15559.705",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1618719642"
+        },
+        {
+          "amount": "1000000000000000000",
+          "amountUSD": "2222.815",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1618718683"
+        },
+        {
+          "amount": "150000000000000000000",
+          "amountUSD": "6387.23985",
+          "asset": {
+            "lastPriceUSD": "10.66310967",
+            "symbol": "UNI"
+          },
+          "timestamp": "1620251809"
+        }
+      ]
+    },
+    "compound_v3": {}
+  },
+  "0x1724e16cb8d0e2aa4d08035bc6b5c56b680a3b22": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x1724e16cb8d0e2aa4d08035bc6b5c56b680a3b22",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x19df3e87f73c4aaf4809295561465b993e102668": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x19df3e87f73c4aaf4809295561465b993e102668",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x1ab2ccad4fc97c9968ea87d4435326715be32872": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x1ab2ccad4fc97c9968ea87d4435326715be32872",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x1c1b30ca93ef57452d53885d97a74f61daf2bf4f": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x1c1b30ca93ef57452d53885d97a74f61daf2bf4f",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 2,
+      "withdraws": [
+        {
+          "amount": "74431995815761890",
+          "amountUSD": "98.27368055548765979535",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1611648839"
+        },
+        {
+          "amount": "39890991208142798",
+          "amountUSD": "51.34908006781369458353",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1611821593"
+        }
+      ]
+    },
+    "compound_v3": {}
+  },
+  "0x1e43dacdcf863676a6bec8f7d6896d6252fac669": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x1e43dacdcf863676a6bec8f7d6896d6252fac669",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x22d7510588d90ed5a87e0f838391aaafa707c34b": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x22d7510588d90ed5a87e0f838391aaafa707c34b",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 2,
+      "withdraws": [
+        {
+          "amount": "3047542837630535007589",
+          "amountUSD": "795.484248822873259795073306834688",
+          "asset": {
+            "lastPriceUSD": "0.16376411",
+            "symbol": "BAT"
+          },
+          "timestamp": "1594670580"
+        },
+        {
+          "amount": "60334450806217",
+          "amountUSD": "0.01390344070691492450292308052612339",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1592581784"
+        }
+      ]
+    },
+    "compound_v3": {}
+  },
+  "0x24b3460622d835c56d9a4fe352966b9bdc6c20af": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x24b3460622d835c56d9a4fe352966b9bdc6c20af",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x26750f1f4277221bdb5f6991473c6ece8c821f9d": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x26750f1f4277221bdb5f6991473c6ece8c821f9d",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x27f72a000d8e9f324583f3a3491ea66998275b28": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x27f72a000d8e9f324583f3a3491ea66998275b28",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x2844658bf341db96aa247259824f42025e3bcec2": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x2844658bf341db96aa247259824f42025e3bcec2",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x2a2fde3e1beb508fcf7c137a1d5965f13a17825e": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x2a2fde3e1beb508fcf7c137a1d5965f13a17825e",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x330513970efd9e8dd606275fb4c50378989b3204": {
+    "compound_v2": {
+      "borrowCount": 3,
+      "borrows": [
+        {
+          "amount": "9700000",
+          "amountUSD": "9.7",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1567324389"
+        },
+        {
+          "amount": "5000000",
+          "amountUSD": "5",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1567496017"
+        },
+        {
+          "amount": "2000000",
+          "amountUSD": "2",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1567402792"
+        }
+      ],
+      "id": "0x330513970efd9e8dd606275fb4c50378989b3204",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 3,
+      "repays": [
+        {
+          "amount": "2000000",
+          "amountUSD": "2",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1567403226"
+        },
+        {
+          "amount": "5000000",
+          "amountUSD": "5",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1567496487"
+        },
+        {
+          "amount": "9700000",
+          "amountUSD": "9.7",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1567324456"
+        }
+      ],
+      "withdrawCount": 1,
+      "withdraws": [
+        {
+          "amount": "75100000000000000",
+          "amountUSD": "12.5510875000000007703007",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1569831298"
+        }
+      ]
+    },
+    "compound_v3": {}
+  },
+  "0x3361bea43c2f5f963f81ac70f64e6fba1f1d2a97": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x3361bea43c2f5f963f81ac70f64e6fba1f1d2a97",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 1,
+      "withdraws": [
+        {
+          "amount": "2500107783478890437094",
+          "amountUSD": "2512.198450849182338161517150682532",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1581680081"
+        }
+      ]
+    },
+    "compound_v3": {}
+  },
+  "0x3867d222ba91236ad4d12c31056626f9e798629c": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x3867d222ba91236ad4d12c31056626f9e798629c",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x3a44be4581137019f83021eeee72b7dc57756069": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x3a44be4581137019f83021eeee72b7dc57756069",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x3e69ad05716bdc834db72c4d6d44439a7c8a902b": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x3e69ad05716bdc834db72c4d6d44439a7c8a902b",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x427f2ac5fdf4245e027d767e7c3ac272a1f40a65": {
+    "compound_v2": {
+      "borrowCount": 7,
+      "borrows": [
+        {
+          "amount": "155000000000000000000",
+          "amountUSD": "154.415268289527510915",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1577059941"
+        },
+        {
+          "amount": "155000000000000000000",
+          "amountUSD": "154.024859223138724025",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1577799023"
+        },
+        {
+          "amount": "150000000000000000000",
+          "amountUSD": "149.05434592516679565",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1576604609"
+        },
+        {
+          "amount": "201000000000000000000",
+          "amountUSD": "200.53222421045066772",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1576721265"
+        },
+        {
+          "amount": "50000000",
+          "amountUSD": "50",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1669981847"
+        },
+        {
+          "amount": "150000000",
+          "amountUSD": "150",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1670792927"
+        },
+        {
+          "amount": "600000000000000000000",
+          "amountUSD": "600.6335027844972882",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1576277186"
+        }
+      ],
+      "id": "0x427f2ac5fdf4245e027d767e7c3ac272a1f40a65",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 5,
+      "repays": [
+        {
+          "amount": "155000000000000000000",
+          "amountUSD": "154.295543406396680685",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1577067917"
+        },
+        {
+          "amount": "5000000000000000000",
+          "amountUSD": "4.968543845907700775",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1577801805"
+        },
+        {
+          "amount": "958855995159565832714",
+          "amountUSD": "957.9474180780557401737428987431488",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1580919142"
+        },
+        {
+          "amount": "100000000",
+          "amountUSD": "100",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1679181047"
+        },
+        {
+          "amount": "150000000000000000000",
+          "amountUSD": "149.1575380358105262",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1576635933"
+        }
+      ],
+      "withdrawCount": 11,
+      "withdraws": [
+        {
+          "amount": "5000000000000000000",
+          "amountUSD": "1092.60000000000016",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1581045803"
+        },
+        {
+          "amount": "260000000000000000",
+          "amountUSD": "1041.6097252288",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1733580035"
+        },
+        {
+          "amount": "1000000000000000000",
+          "amountUSD": "124.115000000000006748",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1576635621"
+        },
+        {
+          "amount": "300185830377353209263",
+          "amountUSD": "306.8004333917192122729546998043988",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1584717697"
+        },
+        {
+          "amount": "1113220876090997675942",
+          "amountUSD": "1119.791232220806948491786021644564",
+          "asset": {
+            "lastPriceUSD": "14.426337",
+            "symbol": "DAI"
+          },
+          "timestamp": "1571794082"
+        },
+        {
+          "amount": "1500000000000000000000",
+          "amountUSD": "1503.587152605942429",
+          "asset": {
+            "lastPriceUSD": "14.426337",
+            "symbol": "DAI"
+          },
+          "timestamp": "1571499111"
+        },
+        {
+          "amount": "3000000000000000000",
+          "amountUSD": "604.185000000000048381",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1580926595"
+        },
+        {
+          "amount": "100000000000000000",
+          "amountUSD": "399.69288",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1733537111"
+        },
+        {
+          "amount": "5171494549128822504",
+          "amountUSD": "1109.582941724707414094711002075155",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1582768047"
+        },
+        {
+          "amount": "500000000000000000000",
+          "amountUSD": "497.9426439345737215",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1581652145"
+        },
+        {
+          "amount": "696761616138430994945",
+          "amountUSD": "727.2706124050738249495852033554597",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1584310077"
+        }
+      ]
+    },
+    "compound_v3": {
+      "borrowCount": 0,
+      "borrows": [
+        {
+          "amount": "100000000",
+          "amountUSD": "99.99",
+          "asset": {
+            "lastPriceUSD": "0.9998833",
+            "symbol": "USDC"
+          },
+          "timestamp": "1679180747"
+        },
+        {
+          "amount": "50000000",
+          "amountUSD": "50",
+          "asset": {
+            "lastPriceUSD": "0.9998833",
+            "symbol": "USDC"
+          },
+          "timestamp": "1670933975"
+        },
+        {
+          "amount": "400000000",
+          "amountUSD": "400.010132",
+          "asset": {
+            "lastPriceUSD": "0.9998833",
+            "symbol": "USDC"
+          },
+          "timestamp": "1688430191"
+        },
+        {
+          "amount": "100000000",
+          "amountUSD": "99.987218",
+          "asset": {
+            "lastPriceUSD": "0.9998833",
+            "symbol": "USDC"
+          },
+          "timestamp": "1669228823"
+        },
+        {
+          "amount": "150000000",
+          "amountUSD": "150.0084105",
+          "asset": {
+            "lastPriceUSD": "0.9998833",
+            "symbol": "USDC"
+          },
+          "timestamp": "1670793191"
+        }
+      ],
+      "id": "0x427f2ac5fdf4245e027d767e7c3ac272a1f40a65",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [
+        {
+          "amount": "606783287",
+          "amountUSD": "606.67314369774376",
+          "asset": {
+            "lastPriceUSD": "0.9998833",
+            "symbol": "USDC"
+          },
+          "timestamp": "1733536931"
+        }
+      ],
+      "withdrawCount": 0,
+      "withdraws": [
+        {
+          "amount": "110588890846171953",
+          "amountUSD": "443.04024695245739804864256864",
+          "asset": {
+            "lastPriceUSD": "3838.754548",
+            "symbol": "WETH"
+          },
+          "timestamp": "1733579531"
+        },
+        {
+          "amount": "400000000000000000",
+          "amountUSD": "1598.77152",
+          "asset": {
+            "lastPriceUSD": "3838.754548",
+            "symbol": "WETH"
+          },
+          "timestamp": "1733537219"
+        }
+      ]
+    }
+  },
+  "0x4814be124d7fe3b240eb46061f7ddfab468fe122": {
+    "compound_v2": {
+      "borrowCount": 12,
+      "borrows": [
+        {
+          "amount": "1514365717741657600",
+          "amountUSD": "163.407632772913563328",
+          "asset": {
+            "lastPriceUSD": "49.63971476",
+            "symbol": "COMP"
+          },
+          "timestamp": "1603958459"
+        },
+        {
+          "amount": "4384261983067522000",
+          "amountUSD": "354.81832228965455546",
+          "asset": {
+            "lastPriceUSD": "49.63971476",
+            "symbol": "COMP"
+          },
+          "timestamp": "1604429855"
+        },
+        {
+          "amount": "3669477633451375500",
+          "amountUSD": "345.040981873432838265",
+          "asset": {
+            "lastPriceUSD": "49.63971476",
+            "symbol": "COMP"
+          },
+          "timestamp": "1604336911"
+        },
+        {
+          "amount": "267933122221487200",
+          "amountUSD": "104.354592442824834656",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1604163003"
+        },
+        {
+          "amount": "400000000",
+          "amountUSD": "400",
+          "asset": {
+            "lastPriceUSD": "1.000344",
+            "symbol": "USDT"
+          },
+          "timestamp": "1604202851"
+        },
+        {
+          "amount": "2564648",
+          "amountUSD": "340.6800181436",
+          "asset": {
+            "lastPriceUSD": "118103.87917785",
+            "symbol": "WBTC"
+          },
+          "timestamp": "1603946204"
+        },
+        {
+          "amount": "676100000000000000",
+          "amountUSD": "271.961225",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1604539537"
+        },
+        {
+          "amount": "819469858757932500",
+          "amountUSD": "317.306924009659043325",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1604254383"
+        },
+        {
+          "amount": "56376649807309340000",
+          "amountUSD": "136.174978777065345303",
+          "asset": {
+            "lastPriceUSD": "10.66310967",
+            "symbol": "UNI"
+          },
+          "timestamp": "1604106100"
+        },
+        {
+          "amount": "50000000000000000000",
+          "amountUSD": "133.73245",
+          "asset": {
+            "lastPriceUSD": "10.66310967",
+            "symbol": "UNI"
+          },
+          "timestamp": "1603945757"
+        },
+        {
+          "amount": "2020000000000000000",
+          "amountUSD": "179.2245",
+          "asset": {
+            "lastPriceUSD": "49.63971476",
+            "symbol": "COMP"
+          },
+          "timestamp": "1604542919"
+        },
+        {
+          "amount": "200000000",
+          "amountUSD": "200",
+          "asset": {
+            "lastPriceUSD": "1.000344",
+            "symbol": "USDT"
+          },
+          "timestamp": "1603943188"
+        }
+      ],
+      "id": "0x4814be124d7fe3b240eb46061f7ddfab468fe122",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 10,
+      "repays": [
+        {
+          "amount": "742917",
+          "amountUSD": "103.7540795109",
+          "asset": {
+            "lastPriceUSD": "118103.87917785",
+            "symbol": "WBTC"
+          },
+          "timestamp": "1604534367"
+        },
+        {
+          "amount": "1515199501213230675",
+          "amountUSD": "137.71648266527053605075",
+          "asset": {
+            "lastPriceUSD": "49.63971476",
+            "symbol": "COMP"
+          },
+          "timestamp": "1604255108"
+        },
+        {
+          "amount": "50140000000000000000",
+          "amountUSD": "99.359931",
+          "asset": {
+            "lastPriceUSD": "10.66310967",
+            "symbol": "UNI"
+          },
+          "timestamp": "1604526183"
+        },
+        {
+          "amount": "100069491",
+          "amountUSD": "100.069491",
+          "asset": {
+            "lastPriceUSD": "1.000344",
+            "symbol": "USDT"
+          },
+          "timestamp": "1604196064"
+        },
+        {
+          "amount": "100030230",
+          "amountUSD": "100.03023",
+          "asset": {
+            "lastPriceUSD": "1.000344",
+            "symbol": "USDT"
+          },
+          "timestamp": "1604162795"
+        },
+        {
+          "amount": "397519897",
+          "amountUSD": "397.519897",
+          "asset": {
+            "lastPriceUSD": "1.000344",
+            "symbol": "USDT"
+          },
+          "timestamp": "1604253073"
+        },
+        {
+          "amount": "56376649807309340000",
+          "amountUSD": "131.41397070083807154",
+          "asset": {
+            "lastPriceUSD": "10.66310967",
+            "symbol": "UNI"
+          },
+          "timestamp": "1604184411"
+        },
+        {
+          "amount": "3670440833666855899",
+          "amountUSD": "297.04877666865864790607",
+          "asset": {
+            "lastPriceUSD": "49.63971476",
+            "symbol": "COMP"
+          },
+          "timestamp": "1604429491"
+        },
+        {
+          "amount": "809181774525229472",
+          "amountUSD": "116.946995154077014915570528",
+          "asset": {
+            "lastPriceUSD": "49.63971476",
+            "symbol": "COMP"
+          },
+          "timestamp": "1607824222"
+        },
+        {
+          "amount": "1820000",
+          "amountUSD": "251.364113",
+          "asset": {
+            "lastPriceUSD": "118103.87917785",
+            "symbol": "WBTC"
+          },
+          "timestamp": "1604201241"
+        }
+      ],
+      "withdrawCount": 11,
+      "withdraws": [
+        {
+          "amount": "100030230",
+          "amountUSD": "100.03023",
+          "asset": {
+            "lastPriceUSD": "1.000344",
+            "symbol": "USDT"
+          },
+          "timestamp": "1604162727"
+        },
+        {
+          "amount": "2917",
+          "amountUSD": "0.40287314155",
+          "asset": {
+            "lastPriceUSD": "118103.87917785",
+            "symbol": "WBTC"
+          },
+          "timestamp": "1604253992"
+        },
+        {
+          "amount": "397519897",
+          "amountUSD": "397.519897",
+          "asset": {
+            "lastPriceUSD": "1.000344",
+            "symbol": "USDT"
+          },
+          "timestamp": "1604252950"
+        },
+        {
+          "amount": "15879288667295409871",
+          "amountUSD": "6.245292474269950111444558",
+          "asset": {
+            "lastPriceUSD": "0.27129849",
+            "symbol": "ZRX"
+          },
+          "timestamp": "1607826829"
+        },
+        {
+          "amount": "15031113251651938",
+          "amountUSD": "5.88009634847997988591",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1603944342"
+        },
+        {
+          "amount": "84317822829552377417",
+          "amountUSD": "33.162031083217290933351266",
+          "asset": {
+            "lastPriceUSD": "0.27129849",
+            "symbol": "ZRX"
+          },
+          "timestamp": "1607825434"
+        },
+        {
+          "amount": "987618593",
+          "amountUSD": "987.618593",
+          "asset": {
+            "lastPriceUSD": "1.000344",
+            "symbol": "USDT"
+          },
+          "timestamp": "1616943808"
+        },
+        {
+          "amount": "818071239",
+          "amountUSD": "818.071239",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1616944011"
+        },
+        {
+          "amount": "231603477708188054",
+          "amountUSD": "89.10133192650556719461",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1604097221"
+        },
+        {
+          "amount": "2560000",
+          "amountUSD": "353.567104",
+          "asset": {
+            "lastPriceUSD": "118103.87917785",
+            "symbol": "WBTC"
+          },
+          "timestamp": "1604194377"
+        },
+        {
+          "amount": "5336303921164869674",
+          "amountUSD": "699.802890885257087883490326",
+          "asset": {
+            "lastPriceUSD": "49.63971476",
+            "symbol": "COMP"
+          },
+          "timestamp": "1609020486"
+        }
+      ]
+    },
+    "compound_v3": {}
+  },
+  "0x4839e666e2baf12a51bf004392b35972eeddeabf": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x4839e666e2baf12a51bf004392b35972eeddeabf",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 2,
+      "withdraws": [
+        {
+          "amount": "434682505",
+          "amountUSD": "434.682505",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1612861265"
+        },
+        {
+          "amount": "889937756518934540934",
+          "amountUSD": "890.94338618380093696525542",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1612861450"
+        }
+      ]
+    },
+    "compound_v3": {}
+  },
+  "0x4c4d05fe859279c91b074429b5fc451182cec745": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x4c4d05fe859279c91b074429b5fc451182cec745",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x4d997c89bc659a3e8452038a8101161e7e7e53a7": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x4d997c89bc659a3e8452038a8101161e7e7e53a7",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 1,
+      "withdraws": [
+        {
+          "amount": "975001103488414562",
+          "amountUSD": "202.4785245770471847867987708822972",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1565380674"
+        }
+      ]
+    },
+    "compound_v3": {}
+  },
+  "0x4db0a72edb5ea6c55df929f76e7d5bb14e389860": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x4db0a72edb5ea6c55df929f76e7d5bb14e389860",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x4e61251336c32e4fe6bfd5fab014846599321389": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x4e61251336c32e4fe6bfd5fab014846599321389",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x4e6e724f4163b24ffc7ffe662b5f6815b18b4210": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x4e6e724f4163b24ffc7ffe662b5f6815b18b4210",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x507b6c0d950702f066a9a1bd5e85206f87b065ba": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x507b6c0d950702f066a9a1bd5e85206f87b065ba",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 1,
+      "withdraws": [
+        {
+          "amount": "52953916261200660",
+          "amountUSD": "176.07700982284266873048786",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1633362670"
+        }
+      ]
+    },
+    "compound_v3": {}
+  },
+  "0x54e19653be9d4143b08994906be0e27555e8834d": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x54e19653be9d4143b08994906be0e27555e8834d",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 2,
+      "withdraws": [
+        {
+          "amount": "1000004",
+          "amountUSD": "1.000004",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1563575259"
+        },
+        {
+          "amount": "1000000",
+          "amountUSD": "1",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1563572880"
+        }
+      ]
+    },
+    "compound_v3": {}
+  },
+  "0x56ba823641bfc317afc8459bf27feed6eb9ff59f": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x56ba823641bfc317afc8459bf27feed6eb9ff59f",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x56cc2bffcb3f86a30c492f9d1a671a1f744d1d2f": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x56cc2bffcb3f86a30c492f9d1a671a1f744d1d2f",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x578cea5f899b0dfbf05c7fbcfda1a644b2a47787": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x578cea5f899b0dfbf05c7fbcfda1a644b2a47787",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x58c2a9099a03750e9842d3e9a7780cdd6aa70b86": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x58c2a9099a03750e9842d3e9a7780cdd6aa70b86",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x58d68d4bcf9725e40353379cec92b90332561683": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x58d68d4bcf9725e40353379cec92b90332561683",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x5e324b4a564512ea7c93088dba2f8c1bf046a3eb": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x5e324b4a564512ea7c93088dba2f8c1bf046a3eb",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x612a3500559be7be7703de6dc397afb541a16f7f": {
+    "compound_v2": {
+      "borrowCount": 1,
+      "borrows": [
+        {
+          "amount": "10000000000",
+          "amountUSD": "10000",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1614170759"
+        }
+      ],
+      "id": "0x612a3500559be7be7703de6dc397afb541a16f7f",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 2,
+      "repays": [
+        {
+          "amount": "967942162",
+          "amountUSD": "967.942162",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1614773282"
+        },
+        {
+          "amount": "9047437120",
+          "amountUSD": "9047.43712",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1614939625"
+        }
+      ],
+      "withdrawCount": 3,
+      "withdraws": [
+        {
+          "amount": "3001226210644561919345",
+          "amountUSD": "4119.29101825324443853010892",
+          "asset": {
+            "lastPriceUSD": "0.27129849",
+            "symbol": "ZRX"
+          },
+          "timestamp": "1615121677"
+        },
+        {
+          "amount": "975307427336830021235",
+          "amountUSD": "27189.9130515243483809957005",
+          "asset": {
+            "lastPriceUSD": "10.66310967",
+            "symbol": "UNI"
+          },
+          "timestamp": "1614939708"
+        },
+        {
+          "amount": "5650235194928493376",
+          "amountUSD": "10254.668351977436718107666624",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1615285358"
+        }
+      ]
+    },
+    "compound_v3": {}
+  },
+  "0x623af911f493747c216ad389c7805a37019c662d": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x623af911f493747c216ad389c7805a37019c662d",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x6a2752a534faacaaa153bffbb973dd84e0e5497b": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x6a2752a534faacaaa153bffbb973dd84e0e5497b",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x6d69ca3711e504658977367e13c300ab198379f1": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x6d69ca3711e504658977367e13c300ab198379f1",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x6e355417f7f56e7927d1cd971f0b5a1e6d538487": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x6e355417f7f56e7927d1cd971f0b5a1e6d538487",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 1,
+      "withdraws": [
+        {
+          "amount": "3001838",
+          "amountUSD": "3.001838",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1606239482"
+        }
+      ]
+    },
+    "compound_v3": {}
+  },
+  "0x70c1864282599a762c674dd9d567b37e13bce755": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x70c1864282599a762c674dd9d567b37e13bce755",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x70d8e4ab175dfe0eab4e9a7f33e0a2d19f44001e": {
+    "compound_v2": {
+      "borrowCount": 9,
+      "borrows": [
+        {
+          "amount": "55000000",
+          "amountUSD": "55",
+          "asset": {
+            "lastPriceUSD": "1.000344",
+            "symbol": "USDT"
+          },
+          "timestamp": "1589027189"
+        },
+        {
+          "amount": "3000000000000000000",
+          "amountUSD": "35.859077521124997969",
+          "asset": {
+            "lastPriceUSD": "6.43368",
+            "symbol": "REP"
+          },
+          "timestamp": "1583660253"
+        },
+        {
+          "amount": "50000000000000000000",
+          "amountUSD": "10.8575446837500014",
+          "asset": {
+            "lastPriceUSD": "0.16376411",
+            "symbol": "BAT"
+          },
+          "timestamp": "1583017257"
+        },
+        {
+          "amount": "250000000000000000",
+          "amountUSD": "37.10250000000000456175",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1575690395"
+        },
+        {
+          "amount": "10000000",
+          "amountUSD": "10",
+          "asset": {
+            "lastPriceUSD": "1.000344",
+            "symbol": "USDT"
+          },
+          "timestamp": "1588996167"
+        },
+        {
+          "amount": "72097148077855700000",
+          "amountUSD": "21.7300862561152570977565751831688",
+          "asset": {
+            "lastPriceUSD": "0.16376411",
+            "symbol": "BAT"
+          },
+          "timestamp": "1581658323"
+        },
+        {
+          "amount": "60000000",
+          "amountUSD": "60",
+          "asset": {
+            "lastPriceUSD": "1.000344",
+            "symbol": "USDT"
+          },
+          "timestamp": "1589028077"
+        },
+        {
+          "amount": "8000000000000000000",
+          "amountUSD": "112.649483056000003608",
+          "asset": {
+            "lastPriceUSD": "6.43368",
+            "symbol": "REP"
+          },
+          "timestamp": "1579405890"
+        },
+        {
+          "amount": "60000000000000000000",
+          "amountUSD": "18.08400484799998704",
+          "asset": {
+            "lastPriceUSD": "0.16376411",
+            "symbol": "BAT"
+          },
+          "timestamp": "1581658666"
+        }
+      ],
+      "id": "0x70d8e4ab175dfe0eab4e9a7f33e0a2d19f44001e",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 10,
+      "repays": [
+        {
+          "amount": "122650000000000000000",
+          "amountUSD": "15.6671578024843757359",
+          "asset": {
+            "lastPriceUSD": "0.16376411",
+            "symbol": "BAT"
+          },
+          "timestamp": "1584270900"
+        },
+        {
+          "amount": "2052574803524472249",
+          "amountUSD": "27.1481364590854835692167531948786",
+          "asset": {
+            "lastPriceUSD": "6.43368",
+            "symbol": "REP"
+          },
+          "timestamp": "1589284918"
+        },
+        {
+          "amount": "60000000000000000000",
+          "amountUSD": "6.6670020779999934",
+          "asset": {
+            "lastPriceUSD": "0.16376411",
+            "symbol": "BAT"
+          },
+          "timestamp": "1584369573"
+        },
+        {
+          "amount": "1222344380218430085",
+          "amountUSD": "14.92342461791703448848629942843519",
+          "asset": {
+            "lastPriceUSD": "6.43368",
+            "symbol": "REP"
+          },
+          "timestamp": "1583847875"
+        },
+        {
+          "amount": "20890000",
+          "amountUSD": "20.89",
+          "asset": {
+            "lastPriceUSD": "1.000344",
+            "symbol": "USDT"
+          },
+          "timestamp": "1590567338"
+        },
+        {
+          "amount": "360650514916880754",
+          "amountUSD": "4.492121304315851316741207255091105",
+          "asset": {
+            "lastPriceUSD": "6.43368",
+            "symbol": "REP"
+          },
+          "timestamp": "1590554306"
+        },
+        {
+          "amount": "342171394668614",
+          "amountUSD": "0.00003802095665479675668414478645246",
+          "asset": {
+            "lastPriceUSD": "0.16376411",
+            "symbol": "BAT"
+          },
+          "timestamp": "1584369629"
+        },
+        {
+          "amount": "5409100000000000000",
+          "amountUSD": "41.5586434038205246203672",
+          "asset": {
+            "lastPriceUSD": "6.43368",
+            "symbol": "REP"
+          },
+          "timestamp": "1584271685"
+        },
+        {
+          "amount": "104587758",
+          "amountUSD": "104.587758",
+          "asset": {
+            "lastPriceUSD": "1.000344",
+            "symbol": "USDT"
+          },
+          "timestamp": "1590559387"
+        },
+        {
+          "amount": "2000000000000000000",
+          "amountUSD": "17.508516610000003578",
+          "asset": {
+            "lastPriceUSD": "6.43368",
+            "symbol": "REP"
+          },
+          "timestamp": "1585131005"
+        }
+      ],
+      "withdrawCount": 22,
+      "withdraws": [
+        {
+          "amount": "11860382",
+          "amountUSD": "11.860382",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1590837439"
+        },
+        {
+          "amount": "182210103056990806603",
+          "amountUSD": "39.20755279892887826315313638048146",
+          "asset": {
+            "lastPriceUSD": "0.16376411",
+            "symbol": "BAT"
+          },
+          "timestamp": "1590837711"
+        },
+        {
+          "amount": "12037923",
+          "amountUSD": "12.037923",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1573958180"
+        },
+        {
+          "amount": "15023427948383350000",
+          "amountUSD": "15.7745993458025164784068995099322",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1584377138"
+        },
+        {
+          "amount": "196298903416856336976",
+          "amountUSD": "33.67847295892832297030093534279026",
+          "asset": {
+            "lastPriceUSD": "0.16376411",
+            "symbol": "BAT"
+          },
+          "timestamp": "1576585042"
+        },
+        {
+          "amount": "50000000000000000000",
+          "amountUSD": "52.49999999999999495",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1584271276"
+        },
+        {
+          "amount": "12125643608927255203",
+          "amountUSD": "12.17351573476500332313629994034783",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1590833689"
+        },
+        {
+          "amount": "10000000000000000000",
+          "amountUSD": "10.00857464096762154",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1583712558"
+        },
+        {
+          "amount": "100000000000000000000",
+          "amountUSD": "104.9999999999999899",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1584272057"
+        },
+        {
+          "amount": "37335740246721439257",
+          "amountUSD": "12.61294601670638741363033000920867",
+          "asset": {
+            "lastPriceUSD": "0.27129849",
+            "symbol": "ZRX"
+          },
+          "timestamp": "1590719157"
+        },
+        {
+          "amount": "992903938034212990",
+          "amountUSD": "200.7466389536910065907994730573017",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1590559573"
+        },
+        {
+          "amount": "25000000",
+          "amountUSD": "25",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1578666449"
+        },
+        {
+          "amount": "136282362640026916878",
+          "amountUSD": "136.5060229797092760757595122522129",
+          "asset": {
+            "lastPriceUSD": "14.426337",
+            "symbol": "DAI"
+          },
+          "timestamp": "1575347814"
+        },
+        {
+          "amount": "15000000000000000000",
+          "amountUSD": "15.064124600684010885",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1575506736"
+        },
+        {
+          "amount": "10000000000000000000",
+          "amountUSD": "10.49999999999999847",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1584004765"
+        },
+        {
+          "amount": "52000000",
+          "amountUSD": "52",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1575173550"
+        },
+        {
+          "amount": "10000000000000000000",
+          "amountUSD": "10.49999999999999974",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1584274934"
+        },
+        {
+          "amount": "167961995730251100000",
+          "amountUSD": "29.0276645143396765774894813192689",
+          "asset": {
+            "lastPriceUSD": "0.16376411",
+            "symbol": "BAT"
+          },
+          "timestamp": "1586408838"
+        },
+        {
+          "amount": "120572880901916500773",
+          "amountUSD": "119.4934589667335420572792285739276",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1576158807"
+        },
+        {
+          "amount": "25000000000000000000",
+          "amountUSD": "25.675323268137061325",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1585131820"
+        },
+        {
+          "amount": "15000000000000000000",
+          "amountUSD": "14.883341340111979035",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1580147125"
+        },
+        {
+          "amount": "83748621619712600000",
+          "amountUSD": "15.7955225190654882720505859682756",
+          "asset": {
+            "lastPriceUSD": "0.16376411",
+            "symbol": "BAT"
+          },
+          "timestamp": "1576316109"
+        }
+      ]
+    },
+    "compound_v3": {}
+  },
+  "0x7399dbeebe2f88bc6ac4e3fd7ddb836a4bce322f": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x7399dbeebe2f88bc6ac4e3fd7ddb836a4bce322f",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x767055590c73b7d2aaa6219da13807c493f91a20": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x767055590c73b7d2aaa6219da13807c493f91a20",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x7851bdfb64bbecfb40c030d722a1f147dff5db6a": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x7851bdfb64bbecfb40c030d722a1f147dff5db6a",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 1,
+      "withdraws": [
+        {
+          "amount": "1318908036337723081973",
+          "amountUSD": "495.562548849427057651289101",
+          "asset": {
+            "lastPriceUSD": "0.27129849",
+            "symbol": "ZRX"
+          },
+          "timestamp": "1600705102"
+        }
+      ]
+    },
+    "compound_v3": {}
+  },
+  "0x7b4636320daa0bc055368a4f9b9d01bd8ac51877": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x7b4636320daa0bc055368a4f9b9d01bd8ac51877",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x7b57dbe2f2e4912a29754ff3e412ed9507fd8957": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x7b57dbe2f2e4912a29754ff3e412ed9507fd8957",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 2,
+      "withdraws": [
+        {
+          "amount": "6504283938195443",
+          "amountUSD": "2.91359399011464869185",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1604772756"
+        },
+        {
+          "amount": "64887157377649",
+          "amountUSD": "0.02906620214731786955",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1604772790"
+        }
+      ]
+    },
+    "compound_v3": {}
+  },
+  "0x7be3dfb5b6fcbae542ea85e76cc19916a20f6c1e": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x7be3dfb5b6fcbae542ea85e76cc19916a20f6c1e",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x7de76a449cf60ea3e111ff18b28e516d89532152": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x7de76a449cf60ea3e111ff18b28e516d89532152",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x7e3eab408b9c76a13305ef34606f17c16f7b33cc": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x7e3eab408b9c76a13305ef34606f17c16f7b33cc",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 1,
+      "withdraws": [
+        {
+          "amount": "641243099282576195720",
+          "amountUSD": "644.0490611404984848513443231629403",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1588898185"
+        }
+      ]
+    },
+    "compound_v3": {}
+  },
+  "0x7f5e6a28afc9fb0aaf4259d4ff69991b88ebea47": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x7f5e6a28afc9fb0aaf4259d4ff69991b88ebea47",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x83ea74c67d393c6894c34c464657bda2183a2f1a": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x83ea74c67d393c6894c34c464657bda2183a2f1a",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x8441fecef5cc6f697be2c4fc4a36feacede8df67": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x8441fecef5cc6f697be2c4fc4a36feacede8df67",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x854a873b8f9bfac36a5eb9c648e285a095a7478d": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x854a873b8f9bfac36a5eb9c648e285a095a7478d",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x8587d9f794f06d976c2ec1cfd523983b856f5ca9": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x8587d9f794f06d976c2ec1cfd523983b856f5ca9",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x880a0af12da55df1197f41697c1a1b61670ed410": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x880a0af12da55df1197f41697c1a1b61670ed410",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 2,
+      "withdraws": [
+        {
+          "amount": "3000001",
+          "amountUSD": "3.000001",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1604512435"
+        },
+        {
+          "amount": "7358351945054047",
+          "amountUSD": "2.989440852957382404455",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1604512012"
+        }
+      ]
+    },
+    "compound_v3": {}
+  },
+  "0x8aaece100580b749a20f8ce30338c4e0770b65ed": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x8aaece100580b749a20f8ce30338c4e0770b65ed",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x8be38ea2b22b706aef313c2de81f7d179024dd30": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x8be38ea2b22b706aef313c2de81f7d179024dd30",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 2,
+      "withdraws": [
+        {
+          "amount": "206630866",
+          "amountUSD": "206.630866",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1622565215"
+        },
+        {
+          "amount": "72155389011749785",
+          "amountUSD": "249.287128058078920954025",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1620296513"
+        }
+      ]
+    },
+    "compound_v3": {}
+  },
+  "0x8d900f213db5205c529aaba5d10e71a0ed2646db": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x8d900f213db5205c529aaba5d10e71a0ed2646db",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 1,
+      "withdraws": [
+        {
+          "amount": "1270124800",
+          "amountUSD": "1270.1248",
+          "asset": {
+            "lastPriceUSD": "1.000344",
+            "symbol": "USDT"
+          },
+          "timestamp": "1610588522"
+        }
+      ]
+    },
+    "compound_v3": {}
+  },
+  "0x91919344c1dad09772d19ad8ad4f1bcd29c51f27": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x91919344c1dad09772d19ad8ad4f1bcd29c51f27",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x93f0891bf71d8abed78e0de0885bd26355bb8b1d": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x93f0891bf71d8abed78e0de0885bd26355bb8b1d",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x96479b087cb8f236a5e2dcbfc50ce63b2f421da6": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x96479b087cb8f236a5e2dcbfc50ce63b2f421da6",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x96bb4447a02b95f1d1e85374cffd565eb22ed2f8": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x96bb4447a02b95f1d1e85374cffd565eb22ed2f8",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x9a363adc5d382c04d36b09158286328f75672098": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x9a363adc5d382c04d36b09158286328f75672098",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x9ad1331c5b6c5a641acffb32719c66a80c6e1a17": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0x9ad1331c5b6c5a641acffb32719c66a80c6e1a17",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x9ba0d85f71e145ccf15225e59631e5a883d5d74a": {
+    "compound_v2": {
+      "borrowCount": 1,
+      "borrows": [
+        {
+          "amount": "3364419259639349",
+          "amountUSD": "8.71492249662899850168",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1751595911"
+        }
+      ],
+      "id": "0x9ba0d85f71e145ccf15225e59631e5a883d5d74a",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0x9e6ec4e98793970a1307262ba68d37594e58cd78": {
+    "compound_v2": {
+      "borrowCount": 13,
+      "borrows": [
+        {
+          "amount": "49999999999999993000000",
+          "amountUSD": "50687.5326318221243537454315449016",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1594260747"
+        },
+        {
+          "amount": "15000000000000000000000",
+          "amountUSD": "15206.259789546639435",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1594261568"
+        },
+        {
+          "amount": "370000000000000000000000",
+          "amountUSD": "371311.61284919865341",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1595675966"
+        },
+        {
+          "amount": "19100000000000000000000",
+          "amountUSD": "19282.980319222890784",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1594079553"
+        },
+        {
+          "amount": "24999999999999997000000",
+          "amountUSD": "25343.76631591106268374804209067211",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1594261329"
+        },
+        {
+          "amount": "29900000000000000000000",
+          "amountUSD": "30186.445630615938976",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1594079193"
+        },
+        {
+          "amount": "110000000000000000000000",
+          "amountUSD": "110693.25890150465993",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1594864443"
+        },
+        {
+          "amount": "12499999999999998000000",
+          "amountUSD": "12648.45716630408176374685339134659",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1594081824"
+        },
+        {
+          "amount": "15000000000000000000000",
+          "amountUSD": "15143.7018213792336",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1594080125"
+        },
+        {
+          "amount": "80009614475612786399898",
+          "amountUSD": "80885.93985729823324469450676078038",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1594054480"
+        },
+        {
+          "amount": "30000000000000000000000",
+          "amountUSD": "30412.51957909327887",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1594261184"
+        },
+        {
+          "amount": "40000000000000000000000",
+          "amountUSD": "40550.02610545770516",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1594261006"
+        },
+        {
+          "amount": "1000000000000000000000",
+          "amountUSD": "1009.58012142528224",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1594078663"
+        }
+      ],
+      "id": "0x9e6ec4e98793970a1307262ba68d37594e58cd78",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 6,
+      "repays": [
+        {
+          "amount": "40000000000000000000000",
+          "amountUSD": "40556.50615809000544",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1595896122"
+        },
+        {
+          "amount": "170000000000000000000000",
+          "amountUSD": "173329.414002632957",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1596673843"
+        },
+        {
+          "amount": "300000000000000000000000",
+          "amountUSD": "305875.43647523463",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1596674561"
+        },
+        {
+          "amount": "232546000000000000000000",
+          "amountUSD": "235966.286568",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1598308612"
+        },
+        {
+          "amount": "80009614475612786399898",
+          "amountUSD": "80885.93985729823324469450676078038",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1594054480"
+        },
+        {
+          "amount": "58100000000000000000000",
+          "amountUSD": "58616.5671",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1598262446"
+        }
+      ],
+      "withdrawCount": 10,
+      "withdraws": [
+        {
+          "amount": "20000000000000000000000",
+          "amountUSD": "20177.82",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1598262741"
+        },
+        {
+          "amount": "40000000000000000000000",
+          "amountUSD": "40556.50615809000544",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1595896122"
+        },
+        {
+          "amount": "149873000000",
+          "amountUSD": "149873",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1594253635"
+        },
+        {
+          "amount": "12000000000000000000000",
+          "amountUSD": "12166.951847427001632",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1595896321"
+        },
+        {
+          "amount": "170000000000000000000000",
+          "amountUSD": "173329.414002632957",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1596673843"
+        },
+        {
+          "amount": "300000000000000000000000",
+          "amountUSD": "305875.43647523463",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1596674561"
+        },
+        {
+          "amount": "232546000000000000000000",
+          "amountUSD": "235966.286568",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1598308612"
+        },
+        {
+          "amount": "160000000000000000000000",
+          "amountUSD": "163133.566120125136",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1596674919"
+        },
+        {
+          "amount": "58100000000000000000000",
+          "amountUSD": "58616.5671",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1598262446"
+        },
+        {
+          "amount": "81700107979806002706659",
+          "amountUSD": "82901.753167972989394468540572",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1598308715"
+        }
+      ]
+    },
+    "compound_v3": {}
+  },
+  "0xa7e94d933eb0c439dda357f61244a485246e97b8": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0xa7e94d933eb0c439dda357f61244a485246e97b8",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 1,
+      "withdraws": [
+        {
+          "amount": "440002872652746125",
+          "amountUSD": "78.91891523899654607824717014125433",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1570575023"
+        }
+      ]
+    },
+    "compound_v3": {}
+  },
+  "0xa7f3c74f0255796fd5d3ddcf88db769f7a6bf46a": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0xa7f3c74f0255796fd5d3ddcf88db769f7a6bf46a",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 4,
+      "withdraws": [
+        {
+          "amount": "19438458837223765057723",
+          "amountUSD": "19544.98950914581931031116334449127",
+          "asset": {
+            "lastPriceUSD": "14.426337",
+            "symbol": "DAI"
+          },
+          "timestamp": "1574377869"
+        },
+        {
+          "amount": "137037217208489032008315",
+          "amountUSD": "137181.38036099236246998774738",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1614386732"
+        },
+        {
+          "amount": "34271645019374018634197",
+          "amountUSD": "34502.77048497314072907021116965759",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1589117232"
+        },
+        {
+          "amount": "31000000000000000000000",
+          "amountUSD": "31048.608",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1611251141"
+        }
+      ]
+    },
+    "compound_v3": {}
+  },
+  "0xa98dc64bb42575efec7d1e4560c029231ce5da51": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0xa98dc64bb42575efec7d1e4560c029231ce5da51",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0xb271ff7090b39028eb6e711c3f89a3453d5861ee": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0xb271ff7090b39028eb6e711c3f89a3453d5861ee",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0xb475576594ae44e1f75f534f993cbb7673e4c8b6": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0xb475576594ae44e1f75f534f993cbb7673e4c8b6",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0xb57297c5d02def954794e593db93d0a302e43e5c": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0xb57297c5d02def954794e593db93d0a302e43e5c",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0xbd4a00764217c13a246f86db58d74541a0c3972a": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0xbd4a00764217c13a246f86db58d74541a0c3972a",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 2,
+      "withdraws": [
+        {
+          "amount": "165629442392",
+          "amountUSD": "165629.442392",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1595456303"
+        },
+        {
+          "amount": "827040430024",
+          "amountUSD": "827040.430024",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1623698146"
+        }
+      ]
+    },
+    "compound_v3": {}
+  },
+  "0xc179d55f7e00e789915760f7d260a1bf6285278b": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0xc179d55f7e00e789915760f7d260a1bf6285278b",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0xc22b8e78394ce52e0034609a67ae3c959daa84bc": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0xc22b8e78394ce52e0034609a67ae3c959daa84bc",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 1,
+      "withdraws": [
+        {
+          "amount": "473905926329528997998",
+          "amountUSD": "474.028667964448346008481482",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1611013253"
+        }
+      ]
+    },
+    "compound_v3": {}
+  },
+  "0xcbbd9fe837a14258286bbf2e182cbc4e4518c5a3": {
+    "compound_v2": {
+      "borrowCount": 3,
+      "borrows": [
+        {
+          "amount": "100000000000000000000",
+          "amountUSD": "100.8489",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1603242259"
+        },
+        {
+          "amount": "600000000000000000000",
+          "amountUSD": "605.22",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1603887012"
+        },
+        {
+          "amount": "1000000000000000000000",
+          "amountUSD": "1003.112",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1608128402"
+        }
+      ],
+      "id": "0xcbbd9fe837a14258286bbf2e182cbc4e4518c5a3",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 4,
+      "repays": [
+        {
+          "amount": "1595525332038532696498",
+          "amountUSD": "1597.5995149701827890034474",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1617061506"
+        },
+        {
+          "amount": "140893406454815",
+          "amountUSD": "0.00014175398338144101002",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1603651390"
+        },
+        {
+          "amount": "54359896840000000000",
+          "amountUSD": "54.56303977449108",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1606914854"
+        },
+        {
+          "amount": "100000000000000000000",
+          "amountUSD": "100.8489",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1603243417"
+        }
+      ],
+      "withdrawCount": 4,
+      "withdraws": [
+        {
+          "amount": "88524069612144215509",
+          "amountUSD": "88.77901893262719084966592",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1607815135"
+        },
+        {
+          "amount": "6000000000000000000",
+          "amountUSD": "9537.6",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1612710285"
+        },
+        {
+          "amount": "2391462268386887023",
+          "amountUSD": "4319.62655151918242303421",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1617061653"
+        },
+        {
+          "amount": "249099810",
+          "amountUSD": "249.09981",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1597943393"
+        }
+      ]
+    },
+    "compound_v3": {}
+  },
+  "0xcecf5163bb057c1aff4963d9b9a7d2f0bf591710": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0xcecf5163bb057c1aff4963d9b9a7d2f0bf591710",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0xcf0033bf27804640e5339e06443e208db5870dd2": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0xcf0033bf27804640e5339e06443e208db5870dd2",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0xd0df53e296c1e3115fccc3d7cdf4ba495e593b56": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0xd0df53e296c1e3115fccc3d7cdf4ba495e593b56",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0xd1a3888fd8f490367c6104e10b4154427c02dd9c": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0xd1a3888fd8f490367c6104e10b4154427c02dd9c",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0xd334d18fa6bada9a10f361bae42a019ce88a3c33": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0xd334d18fa6bada9a10f361bae42a019ce88a3c33",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0xd9d3930ffa343f5a0eec7606d045d0843d3a02b4": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0xd9d3930ffa343f5a0eec7606d045d0843d3a02b4",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0xdde73df7bd4d704a89ad8421402701b3a460c6e9": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0xdde73df7bd4d704a89ad8421402701b3a460c6e9",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 1,
+      "withdraws": [
+        {
+          "amount": "300213456846097441",
+          "amountUSD": "1303.658564491472983763500564",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1637043548"
+        }
+      ]
+    },
+    "compound_v3": {}
+  },
+  "0xde92d70253604fd8c5998c8ee3ed282a41b33b7f": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0xde92d70253604fd8c5998c8ee3ed282a41b33b7f",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0xded1f838ae6aa5fcd0f13481b37ee88e5bdccb3d": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0xded1f838ae6aa5fcd0f13481b37ee88e5bdccb3d",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0xebb8629e8a3ec86cf90cb7600264415640834483": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0xebb8629e8a3ec86cf90cb7600264415640834483",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0xeded1c8c0a0c532195b8432153f3bfa81dba2a90": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0xeded1c8c0a0c532195b8432153f3bfa81dba2a90",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0xf10fd8921019615a856c1e95c7cd3632de34edc4": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0xf10fd8921019615a856c1e95c7cd3632de34edc4",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 1,
+      "withdraws": [
+        {
+          "amount": "30145089310891709141",
+          "amountUSD": "12.826012019640960838476116",
+          "asset": {
+            "lastPriceUSD": "0.27129849",
+            "symbol": "ZRX"
+          },
+          "timestamp": "1600605495"
+        }
+      ]
+    },
+    "compound_v3": {}
+  },
+  "0xf340b9f2098f80b86fbc5ede586c319473aa11f3": {
+    "compound_v2": {
+      "borrowCount": 6,
+      "borrows": [
+        {
+          "amount": "25000000000",
+          "amountUSD": "25000",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1617673658"
+        },
+        {
+          "amount": "50000000000",
+          "amountUSD": "50000",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1621438165"
+        },
+        {
+          "amount": "45000000000",
+          "amountUSD": "45000",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1616186297"
+        },
+        {
+          "amount": "15000000000",
+          "amountUSD": "15000",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1617585340"
+        },
+        {
+          "amount": "10000000000",
+          "amountUSD": "10000",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1617851863"
+        },
+        {
+          "amount": "50000000000",
+          "amountUSD": "50000",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1622045396"
+        }
+      ],
+      "id": "0xf340b9f2098f80b86fbc5ede586c319473aa11f3",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 3,
+      "repays": [
+        {
+          "amount": "95665837651",
+          "amountUSD": "95665.837651",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1618937574"
+        },
+        {
+          "amount": "50025307024",
+          "amountUSD": "50025.307024",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1622491332"
+        },
+        {
+          "amount": "50012695297",
+          "amountUSD": "50012.695297",
+          "asset": {
+            "lastPriceUSD": "0.999883",
+            "symbol": "USDC"
+          },
+          "timestamp": "1621633190"
+        }
+      ],
+      "withdrawCount": 3,
+      "withdraws": [
+        {
+          "amount": "100008582311698774840",
+          "amountUSD": "225372.8405397940985590594",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1618938396"
+        },
+        {
+          "amount": "40000238482296829846",
+          "amountUSD": "1291.60770059336463572734",
+          "asset": {
+            "lastPriceUSD": "49.63971476",
+            "symbol": "COMP"
+          },
+          "timestamp": "1655673899"
+        },
+        {
+          "amount": "50003337752102168830",
+          "amountUSD": "117883.3687839583840384133",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1623452307"
+        }
+      ]
+    },
+    "compound_v3": {}
+  },
+  "0xf54f36bca969800fd7d63a68029561309938c09b": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0xf54f36bca969800fd7d63a68029561309938c09b",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0xf60304b534f74977e159b2e159e135475c245526": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0xf60304b534f74977e159b2e159e135475c245526",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 2,
+      "withdraws": [
+        {
+          "amount": "419770000000000000000",
+          "amountUSD": "419.6726467098573830058",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1581073138"
+        },
+        {
+          "amount": "1041580000000000000000",
+          "amountUSD": "1038.63709641189339170212",
+          "asset": {
+            "lastPriceUSD": "0.999959",
+            "symbol": "DAI"
+          },
+          "timestamp": "1581099386"
+        }
+      ]
+    },
+    "compound_v3": {}
+  },
+  "0xf67e8e5805835465f7eba988259db882ab726800": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0xf67e8e5805835465f7eba988259db882ab726800",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0xf7aa5d0752cfcd41b0a5945867d619a80c405e52": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0xf7aa5d0752cfcd41b0a5945867d619a80c405e52",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  },
+  "0xf80a8b9cfff0febf49914c269fb8aead4a22f847": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0xf80a8b9cfff0febf49914c269fb8aead4a22f847",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 1,
+      "withdraws": [
+        {
+          "amount": "4747271622360721",
+          "amountUSD": "2.005176324210833139585",
+          "asset": {
+            "lastPriceUSD": "3797.83266631",
+            "symbol": "ETH"
+          },
+          "timestamp": "1597806868"
+        }
+      ]
+    },
+    "compound_v3": {}
+  },
+  "0xfe5a05c0f8b24fca15a7306f6a4ebb7dcf2186ac": {
+    "compound_v2": {
+      "borrowCount": 0,
+      "borrows": [],
+      "id": "0xfe5a05c0f8b24fca15a7306f6a4ebb7dcf2186ac",
+      "liquidateCount": 0,
+      "liquidates": [],
+      "repayCount": 0,
+      "repays": [],
+      "withdrawCount": 0,
+      "withdraws": []
+    },
+    "compound_v3": {}
+  }
+}
